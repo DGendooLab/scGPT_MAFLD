@@ -1,0 +1,11 @@
+# Ignore zero_shot_trial notebooks
+zero_shot_trial
+
+# Ignore scGPT model files
+scGPT_human
+
+# Ignore .venv
+.venv
+
+# Ignore other files
+thesis_presentation.pptx
