@@ -9,3 +9,9 @@ scGPT_human
 
 # Ignore other files
 thesis_presentation.pptx
+
+# Ignore data
+data
+
+# Ignore plots
+plots
